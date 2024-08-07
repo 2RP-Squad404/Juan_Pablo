@@ -1,4 +1,4 @@
-# Relátorio Juan Pablo
+# Juan Pablo
 
 Gerando meus relatórios com base nos meus estudos.
 ## **Relatórios**
