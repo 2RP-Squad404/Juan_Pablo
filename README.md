@@ -11,4 +11,4 @@
 
 ### 12/08 to 16/08
 - [14_08](relatorios/semana3/14_08.md)
--
+- [16_08](relatorios/semana3/segundoRelatorio/16_08.md)
