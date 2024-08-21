@@ -14,3 +14,7 @@
 ### 19/08 to 20/08 
 - [Report: Transactional and BigQuery](report/week4/20_08.md)
 - [Report: Git](report/week4/Second%20Report/20_08.md)
+
+<p></p>
+
+> *Continuation...*
