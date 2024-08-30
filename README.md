@@ -22,5 +22,5 @@
 
 # **Tasks in SQL**
 
-- [Primeira atividade](tarefas_sql/tarefa_1.md)
-- [Segunda atividade](tarefas_sql/segundaTarefa/tarefa_2)
+- [Primeira atividade](tarefas_sql/juan_tarefa_01.json)
+- [Segunda atividade](tarefas_sql/segundaTarefa/juan_tarefa_02.json)
