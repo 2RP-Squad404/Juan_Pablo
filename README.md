@@ -15,6 +15,12 @@
 - [Report: Transactional and BigQuery](report/week4/20_08.md)
 - [Report: Git](report/week4/Second%20Report/20_08.md)
 
-<p></p>
 
-> *Continuation...*
+<p></p>
+<p><p>
+
+
+# **Tarefas em SLL**
+
+- [Primeira atividade](tarefas_sql/tarefa_1.md)
+- [Segunda atividade](tarefas_sql/segundaTarefa/tarefa_2)
