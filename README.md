@@ -20,7 +20,7 @@
 <p><p>
 
 
-# **Tarefas em SLL**
+# **Tasks in SQL**
 
 - [Primeira atividade](tarefas_sql/tarefa_1.md)
 - [Segunda atividade](tarefas_sql/segundaTarefa/tarefa_2)
