@@ -15,6 +15,12 @@
 - [Report: Transactional and BigQuery](report/week4/20_08.md)
 - [Report: Git](report/week4/Second%20Report/20_08.md)
 
-<p></p>
 
-> *Continuation...*
+<p></p>
+<p><p>
+
+
+# **Tasks in SQL**
+
+- [Primeira atividade](tarefas_sql/juan_tarefa_01.json)
+- [Segunda atividade](tarefas_sql/segundaTarefa/juan_tarefa_02.json)
